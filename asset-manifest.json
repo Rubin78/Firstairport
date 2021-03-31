@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Firstairport/static/css/main.d33e0887.chunk.css",
+    "main.js": "/Firstairport/static/js/main.3a4ac861.chunk.js",
+    "main.js.map": "/Firstairport/static/js/main.3a4ac861.chunk.js.map",
+    "runtime-main.js": "/Firstairport/static/js/runtime-main.c4b69ec0.js",
+    "runtime-main.js.map": "/Firstairport/static/js/runtime-main.c4b69ec0.js.map",
+    "static/css/2.7ee60078.chunk.css": "/Firstairport/static/css/2.7ee60078.chunk.css",
+    "static/js/2.2cea743f.chunk.js": "/Firstairport/static/js/2.2cea743f.chunk.js",
+    "static/js/2.2cea743f.chunk.js.map": "/Firstairport/static/js/2.2cea743f.chunk.js.map",
+    "index.html": "/Firstairport/index.html",
+    "precache-manifest.f26004b1ca930dabf063feebc4a44dea.js": "/Firstairport/precache-manifest.f26004b1ca930dabf063feebc4a44dea.js",
+    "service-worker.js": "/Firstairport/service-worker.js",
+    "static/css/2.7ee60078.chunk.css.map": "/Firstairport/static/css/2.7ee60078.chunk.css.map",
+    "static/css/main.d33e0887.chunk.css.map": "/Firstairport/static/css/main.d33e0887.chunk.css.map",
+    "static/js/2.2cea743f.chunk.js.LICENSE.txt": "/Firstairport/static/js/2.2cea743f.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Firstairport/static/media/arrow_right.8ef6a08c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4b69ec0.js",
+    "static/css/2.7ee60078.chunk.css",
+    "static/js/2.2cea743f.chunk.js",
+    "static/css/main.d33e0887.chunk.css",
+    "static/js/main.3a4ac861.chunk.js"
+  ]
+}
